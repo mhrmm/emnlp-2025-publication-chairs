@@ -1,7 +1,7 @@
 
 # EMNLP Publication Chair Repository
 
-## [Chairs]:
+## Chairs:
 | Name             | Affiliation              | Contact                    |
 |------------------|--------------------------|----------------------------|
 | Shivashankar Subramanian | Amazon       | shivashankarrs@gmail.com  |
@@ -9,6 +9,33 @@
 | Mark Hopkins     | Williams College  | mh24@williams.edu |
 
 ---
+
+## Miscellaneous Info
+
+- Initial conversation with Danilo Croce: [mp4](https://drive.google.com/file/d/1W1NvyEs_oXbcgc8g0lRvNnMIeNUAauOj/view?usp=drive_link)
+- Jennifer Rachford provides ISBN for each volume.
+- There is a list of affiliations "under embargo".
+
+## Useful Contacts:
+
+- Danilo Croce (crux82@gmail.com): last year's EMNLP Publication Chair
+- Matt Post: director of ACL Anthology
+- Pierpaolo Basile (pierpaolo.basile@uniba.it): ACL 2025 Publication Chair
+
+---
+
+## Timeline:
+
+- September 19: Camera-ready deadline
+- October 20: Submit book to ACL Anthology
+- November 4-9: EMNLP Conference
+
+## Upcoming Tasks (before camera-ready deadline):
+
+- Request that Program Chairs add a checkbox to the upload form with the following declaration: "I declare that I have run the aclpubcheck tool prior to submission."
+- Request that Program Chairs disallow the upload of arbitrary auxiliary material (anything beyond the Copyright Transfer Form).
+
+
 
 ## Overview of Responsibilities
 
