@@ -1,0 +1,3 @@
+[submodule "aclpub"]
+	path = aclpub
+	url = https://github.com/mhrmm/aclpub2.git
