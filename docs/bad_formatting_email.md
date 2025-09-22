@@ -1,28 +1,22 @@
 Dear paper author,
 
-If you are receiving this email, it means that one of your submissions to EMNLP 2024 (either the main conference or Findings) has a formatting issue.
-It means that your paper did not pass the controls with ACLPUBcheck (https://github.com/acl-org/aclpubcheck) and the formatting issue is quite relevant. 
-Unfortunately, In order to be published these issues should be fixed.  
+If you are receiving this email, it means that one of your submissions to EMNLP (either the main conference or Findings) did not pass the formatting check performed by ACLPUBcheck (https://github.com/acl-org/aclpubcheck).
 
-Please, do not panic, almost all papers have limited issues related with a text or table out of the margin that can be fixed in a few minutes.
-If you use ACLPUBcheck, it will specify which page and which area is out of the margin.
+In order to be published these issues must be fixed. Typically, these are limited issues related to text or a table out of the margin that can be fixed in a few minutes. Running ACLPUBcheck (instructions are provided at the Github repo referenced above) will specify which page and which area is out of the margin.
 
-To expedite the submission process, we have set up a Dropbox folder for you to upload the corrected PDF.
+Probably the most common issue is camera-ready papers that include page numbers, which can happen if you included the line ```\usepackage[preprint]{acl}``` rather than ```\usepackage[final]{acl}``` to compile your camera-ready from LaTeX.
 
-We kindly ask you to:
-Verify the paper using ACLPUBcheck and fix the issue. 
-Remember, changes to the content are not permitted: you can only make corrections to resolve the specific formatting issues.
-Upload the corrected version named as PAPER_ID.pdf (e.g., 100.pdf) to this link:
+We kindly ask you to verify the paper using ACLPUBcheck and fix all reported issues. Note that at this juncture, changes to the paper's content are not permitted: you can only make corrections to resolve the specific formatting issues. 
 
-**provide dropbox link and password**
+To expedite the re-submission process, we have set up a Dropbox folder for you to upload the corrected PDF. Upload the corrected version as PAPER_ID.pdf (e.g., 100.pdf) to this link:
 
-The above link is a dropbox, so you just need to upload your paper and we will download and replace it in our internal repository (no change on OpenReview will appear).
-Unfortunately you will not receive any confirmation via e-mail. Do not worry, we will process these papers in a couple of days, so, if we cannot find your paper, you will be contacted again.
+Link: https://www.dropbox.com/request/zUEd2P26qaAWKrZe3UfB
+Password: g!r9ZS6cXCXpH3q
+
+The above link is a DropBox, so you just need to upload your paper and we will download and replace it in our internal repository (no change on OpenReview will appear).
+Unfortunately you will not receive any confirmation via e-mail. Do not worry, we will process these papers in a couple of days. If we cannot find your paper, you will be contacted again.
 
 Due to the limited time available, we kindly ask that you complete this process within one to two days at most.
 
-We trust in your cooperation and prompt response.
-
-Bests,
-
+Best,
 The EMNLP Publication Chairs
